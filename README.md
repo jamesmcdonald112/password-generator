@@ -21,6 +21,6 @@ This is a simple web-based Password Generator project that allows users to gener
 
 ## Live Demo
 
-- Click here for live demo
+- [Click here for a live demo](https://strong-brioche-25ee1f.netlify.app/)
 
 Feel free to use and modify this project! If you have any questions or suggestions, feel free to reach out.
